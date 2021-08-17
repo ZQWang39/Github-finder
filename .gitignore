@@ -2,8 +2,8 @@
 /node_modules
 /.pnp
 .pnp.js
-/__MACOSX
-/.history
+__MACOSX
+.history
 
 /coverage
 
